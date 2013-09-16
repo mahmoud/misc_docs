@@ -194,4 +194,5 @@ Internal notes
   parks/schools/libraries.
 * sumofallhumanknowledge.py
 * sum(all(human_knowledge))
+* The serpent, the tree, and the API: Accessing Wikipedia from Python
 * Alternative title: Assuming Good Faith: Fixing PHP with Python
