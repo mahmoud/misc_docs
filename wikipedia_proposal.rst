@@ -1,4 +1,4 @@
-
+Python as a knowledge interface
 
 Category
 --------
@@ -15,8 +15,8 @@ Duration
 Description
 -----------
 
-Wikipedia is a pillar of the modern Internet and with hundreds of
-thousands of editors is one of largest collaborative texts ever
+Wikipedia is a pillar of the modern Internet and, with hundreds of
+thousands of editors, is one of largest collaborative texts ever
 created. 500 million monthly users know that it is a vast source of
 facts, statistics, and media about an ever-increasing number of topics
 in an ever-more-complete set of languages.
@@ -52,7 +52,6 @@ ability to access Wikipedia's data through the API and live feed. They
 will be knowledgeable as to the few limitations imposed by the terms
 of service and as well as inspired by examples of the myriad
 possibilities.
-
 
 Detailed Abstract
 -----------------
@@ -180,3 +179,19 @@ Notes
   content at PyCon, this talk can be extended to be either more
   technical, by focusing more on Wapiti's implementation, or more
   community-centric, by focusing more on contributing.
+
+* All code available immediately at:
+
+  * https://github.com/mahmoud
+  * https://github.com/hatnote
+
+
+Internal notes
+--------------
+
+* Internet as an industrialized and commercialized wasteland. There
+  are plenty of businesses, but where are all of the
+  parks/schools/libraries.
+* sumofallhumanknowledge.py
+* sum(all(human_knowledge))
+* Alternative title: Assuming Good Faith: Fixing PHP with Python
