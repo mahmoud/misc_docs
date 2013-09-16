@@ -10,7 +10,7 @@ Best practices/patterns
 
 ## Description
 
-> Current short form: As web platforms continue to grow in relevance, and systems grow in complexity, the demand for ever-more dependable and introspectable services follows suit. This talk details the development of Python as a platform at PayPal, the world's leading online payments processor.
+> Current short form: As web platforms continue to grow in relevance and complexity, the demand for ever-more dependable and introspectable services follows suit. This talk draws on experiences and examples at PayPal to detail the nuances of developing robust service infrastructure, how Python rose to those challenges, and what it all means for a large enterprise.
 
 As web platforms continue to grow in relevance, and systems grow in
 complexity, the demand for ever-more dependable and introspectable
