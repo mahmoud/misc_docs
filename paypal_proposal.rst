@@ -41,6 +41,7 @@ Developers interested in:
   services
 - Managing high-concurrency deterministically (specifically coroutines
   with gevent)
+- The design of RESTful web infrastructure
 - Introducing Python to corporate developers with a wide range of
   Python experience (tending toward minimal-to-know experience)
 
@@ -53,3 +54,29 @@ Python Level
 ------------
 
 Advanced (except for community/corporate aspects)
+
+
+Objectives
+----------
+
+Attendees will learn about:
+
+* Developing robust, trustworthy services by taking a
+  software-infrastructure-first approach.
+* General advice and specific tips on how to balance powerful features
+  with the golden rule of keeping it simple (and how Python enables
+  this).
+* Measurement, profiling, and metadata best practices.
+* The obligations of architects and infrastructure developers to their
+  developer community.
+
+
+Detailed abstract
+-----------------
+
+Formed in 2010, the Python Infrastructure team at PayPal has been
+making steady strides towards first-class citizenship at PayPal,
+which, while having Silicon Valley startup roots, has grown into a
+massive multi-thousand-developer enterprise shop. The ecosystem is a
+complex, multilayered, multifaceted organism, at the heart of which
+still lies decade-old C++.
