@@ -10,8 +10,7 @@ Python Libraries
 
 ## Description
 
-> Current shortform: Python is the ideal language for capturing the nuances of Wikipedia's API and this talk will demonstrate just how easy it can be to tap into the sum of all human knowledge. From introduction to policies to patterns and examples, learn all about the capabilities of the encyclopedia written by Pythonists like you.
-
+> Current shortform: Wikipedia is more than an encyclopedia, it's a giant, ever-expanding database of knowledge made freely available for people and programs alike! Python is the ideal language for capturing the subtleties of an API as nuanced as Wikipedia's. From policies to patterns and examples, come learn just how easy Python makes it to tap into and explore the sum of all human knowledge.
 
 Wikipedia is a pillar of the modern Internet and, with hundreds of
 thousands of editors, is one of largest collaborative texts ever
