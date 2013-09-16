@@ -10,6 +10,7 @@ Best practices/patterns
 
 ## Description
 
+> Current short form: As web platforms continue to grow in relevance, and systems grow in complexity, the demand for ever-more dependable and introspectable services follows suit. This talk details the development of Python as a platform at PayPal, the world's leading online payments processor.
 
 As web platforms continue to grow in relevance, and systems grow in
 complexity, the demand for ever-more dependable and introspectable
@@ -30,6 +31,8 @@ security), and many more, including the unveiling of a couple
 open-source libraries that made it all possible.
 
 ## Audience
+
+> Short form: Developers interested in high-concurrency, high-robustness, RESTful web infrastructure and how to introduce it to new Pythonists. Also PayPal voyeurs.
 
 Developers interested in:
 
@@ -53,14 +56,14 @@ Experienced (except for community/corporate aspects)
 
 Attendees will learn about:
 
--   Developing robust, trustworthy services by taking a
-    software-infrastructure-first approach.
--   General advice and specific tips on how to balance powerful features
-    with the golden rule of keeping it simple (and how Python enables
-    this).
--   Measurement, profiling, and metadata best practices.
--   The obligations of architects and infrastructure developers to their
-    developer community.
+- Developing robust, trustworthy services by taking a
+  software-infrastructure-first approach.
+- General advice and specific tips on how to balance powerful features
+  with the golden rule of keeping it simple (and how Python enables
+  this).
+- Measurement, profiling, and metadata best practices.
+- The obligations of architects and infrastructure developers to their
+  developer community.
 
 ## Detailed abstract
 
