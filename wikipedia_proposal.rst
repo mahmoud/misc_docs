@@ -1,3 +1,5 @@
+
+
 Category
 --------
 
@@ -25,11 +27,8 @@ unrestrictive API of any site in its class.
 Python is the ideal language for capturing the nuances of Wikipedia's
 API and this talk will demonstrate just how easy it can be to tap into
 the sum of all human knowledge. From introduction to policies to
-patterns and examples
-
-
-Internet as more than a commercialized wasteland. It's a city with
-banks and shops, but where are parks/schools/libraries?
+patterns and examples, learn all about the capabilities of the
+encyclopedia written by Pythonists like you.
 
 Audience
 --------
@@ -48,14 +47,84 @@ Beginner to Intermediate
 Objectives
 ----------
 
-- Introduce attendees to:
+By the end of the talk, attendees should feel confident in their
+ability to access Wikipedia's data through the API and live feed. They
+will be knowledgeable as to the few limitations imposed by the terms
+of service and as well as inspired by examples of the myriad
+possibilities.
 
-  - API access patterns
-  - Real-time feed
-  - API policies
 
-- Demonstrate examples of API usage
+Detailed Abstract
+-----------------
 
+The fifth most-trafficked website in the world, Wikipedia is a
+fantastic resource for the curious Internet-goer.
+
+Why Wikipedia?
+~~~~~~~~~~~~~~
+
+In addition to its popularity, Wikipedia is also notably non-profit,
+and relies on not just monetary contributions from supporters, but
+also open-source software contributions from capable engineers.
+
+From the other perspective, many engineers and aspiring coders have
+turned to Wikipedia to learn their craft, but may not have thought of
+Wikipedia as also being a programmatically-accessible open data store
+that welcomes and encourages derivative works.
+
+Why Python?
+~~~~~~~~~~~
+
+Wikipedia actually has a fairly decent Python community, revolving
+around PyWikipediaBot-based automation. These efforts tend to revolve
+more around editing and management than data and research.
+
+The truth is that Wikipedia's API is large, inconsistent, and at times
+cryptic. The technical aspects of this talk revolve around Python's
+expressiveness as a solution to wrangling a normally very-involved API.
+
+A new Wikipedia API client: Wapiti
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Over the past couple years, I have worked on several Wikipedia
+projects (examples below), all of which contributed to the development
+of a new API client. While the talk isn't intended to focus on
+implementation specifics (unless organizers deem a 45-minute slot
+suitable), the defining characteristics are:
+
+* Focus on query-related operations (Wikipedia as a data source)
+* Built for developers of all skill levels
+* Ease of extensibility
+* Consistent data model with exceptionally close parallels to
+  Wikipedia's API
+
+In addition to an introduction to the raw API, attendees will learn
+how Wapiti makes it very easy to create and recombine API
+implementations to create new ones that suit their uses, business or
+personal (with examples).
+
+Wikipedia live feed
+~~~~~~~~~~~~~~~~~~~
+
+Also relevant for Python programmers is the ability to subscribe to
+real-time Wikipedia edits as a service, developed in Python, which
+enabled the construction of:
+
+* Listen to Wikipedia (http://listen.hatnote.com/ released August, 2013)
+* Hatnote Recent Changes Map (http://rcmap.hatnote.com/ released May, 2013)
+
+These will be demoed (or video shown) in the presentation. (Stability
+isn't a major concern, feed uptime is over 97% and these were already
+live-demoed during keynotes at WikiMania in Hong Kong 2013.)
+
+In closing
+~~~~~~~~~~
+
+A large part of proposing this talk is in response to the popularity
+of the aforementioned examples, which have gotten quite a bit of
+media/social media attention (links available on request). I think
+audiences might also just be interested in hearing a bit about how
+Python made those projects (and future Hatnote productions) possible.
 
 Outline
 -------
@@ -71,8 +140,9 @@ Witty section headings TBD.
   2. What's in the documentation?
   3. How did it get to be the way it is? (large, arcane)
 3. Legacy options (3 min)
+  1. Raw API (<1 min, already mostly covered above)
   1. PyWikipedia bot (1 min)
-  2. Other clients (2 min)
+  2. Other clients (1 min)
 3. Wapiti (10 min)
   1. Usage (5 min)
   2. Implementation (3 min)
