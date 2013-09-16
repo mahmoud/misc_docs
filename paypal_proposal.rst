@@ -150,23 +150,32 @@ Outline
 ~~~~~~~
 
 1. Intro (8 mins)
+
   1. Who am I?
   2. Who is PayPal?
   3. History of Python at PayPal (5 mins)
+
 2. Python Infrastructure (26 mins)
+
   1. Motivations and ecosystem (3 mins)
   2. Service-oriented architecture at PayPal (10 mins)
   3. Process management (5 mins)
   4. Logging (3 mins)
   5. Profiling (5 mins)
+
     1. Traditional
     2. Real-time and Sampling
+
   6. Testing (5 mins)
+
 3. Other considerations (7 mins)
+
   1. Packaging (3 mins)
   2. Cross-platform support (1 min)
   3. Security (3 mins)
+
 4. Community management (4 mins)
+
   1. Grassroots
   2. Upward
 
