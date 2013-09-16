@@ -133,7 +133,7 @@ to create a grassroots movement, got the attention of upper management,
 and how we delivered results in a historically traditional corporate
 shop.
 
-### Outline
+## Outline
 
 1.  Intro (8 mins)
     1.  Who am I?
@@ -163,3 +163,24 @@ I can shrink this to 30 minutes by simply:
 - Shortening the intro to 5 minutes (-3)
 - Shortening the SOA (2.2) to 8 minutes (-2)
 
+## Notes
+
+* This talk is an updated form of a talk given to an audience of about 300 (including Guido van Rossum) in 2012, the video and slides of which are available upon request ("upon-request" discretion requested because it includes some internal details).
+
+* This is my first proposal to speak at PyCon, though I have some                                         speaking experience:                                                                                       
+    - Numerous eBay-internal tech talks:
+        - PythonASF: Python ASF Client (2011)
+        - Python in the Midtier (2011)
+        - Python at PayPal (2012)
+        - Python, Wikipedia, and Machine Learning (2012)
+        - Service Rationalization with Python (2013)
+    - As the main Python evangelist within PayPal, I organized "Python
+      Day", which brought together ~300 people from inside and outside
+      the company (including Guido and Raymond). I MC'd, gave a
+      full-length talk, and did a lightning talk. Video available on
+      request.
+    - BoF participation at past PyCons
+    - I just did an interview with French TV for Wikipedia-related work, 
+      if that's relevant.
+
+* Apologies for any formatting issues, I'd originally written an RST, viewable here: https://github.com/mahmoud/misc_docs/blob/master/paypal_proposal.rst
